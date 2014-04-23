@@ -1,3 +1,5 @@
+![Header Image](http://cl.ly/image/0l1k2h2g0q3y/Header.png)
+
 # Sketch Android Kit
 
 This is a work-in-progress, comprehensive Android GUI template for [Sketch](http://bohemiancoding.com/sketch/).
