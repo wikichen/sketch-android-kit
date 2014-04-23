@@ -1,10 +1,12 @@
-![Header Image](http://cl.ly/image/0l1k2h2g0q3y/Header.png)
+![Project Image](https://raw.githubusercontent.com/wikichen/sketch-android-kit/master/images/project-image.png)
 
 # Sketch Android Kit
 
 This is a work-in-progress, comprehensive Android GUI template for [Sketch](http://bohemiancoding.com/sketch/).
 
 You can [download the latest release here](https://github.com/wikichen/sketch-android-kit/releases).
+
+![Document Overview](https://raw.githubusercontent.com/wikichen/sketch-android-kit/master/images/overview.png)
 
 ## Requirements
 
