@@ -4,6 +4,8 @@
 
 This is a work-in-progress, comprehensive Android GUI template for [Sketch](http://bohemiancoding.com/sketch/).
 
+You can [download the latest release here](https://github.com/wikichen/sketch-android-kit/releases).
+
 ## Requirements
 
 * [Sketch 3](http://bohemiancoding.com/sketch/) - You will need to update to Sketch 3 if you haven't already, as the document relies heavily on symbols and is quite useless without them.
