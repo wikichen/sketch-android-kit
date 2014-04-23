@@ -47,3 +47,7 @@ If you find this project useful and want to contribute in other ways, [consider 
 * deprecate buttons (match "official" style guide)
 * need to scale down to XHDPI for ease of exportability (!)
 * and more...
+
+## License
+
+The project is released under the MIT license. See `LICENSE` for more details.
