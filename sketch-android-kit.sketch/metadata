@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>app</key>
-	<string>com.bohemiancoding.sketch3.beta</string>
+	<string>com.bohemiancoding.sketch3</string>
 	<key>build</key>
-	<integer>7595</integer>
+	<integer>7597</integer>
 	<key>commit</key>
-	<string>34b5777403d6234c093967ba3e8aa941bff3a8cc</string>
+	<string>463d76bf23dc890960e184011f80b3dacac572b9</string>
 	<key>fonts</key>
 	<array>
 		<string>Roboto-Bold</string>
@@ -15,7 +15,7 @@
 		<string>Roboto-Light</string>
 	</array>
 	<key>length</key>
-	<integer>7134235</integer>
+	<integer>7784855</integer>
 	<key>version</key>
 	<integer>36</integer>
 </dict>
