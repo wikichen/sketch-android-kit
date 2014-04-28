@@ -22,7 +22,7 @@ You'll notice similarities with the iOS UI Design template that ships with Sketc
 
 ## Support
 
-For the purpose of creating the template from scratch, all symbols and artboards are based on the latest Android version (KitKat) and the Nexus 5 specs, respectively. Unfortunately, the Nexus 5, being the sole Android device I own, utilizes an XXHDPI resolution for assets (which is 3X the base MDPI = 1px). This means exportability is difficult if you want to scale down to other display densities. **The first stable version (v1.0) will pair everything down to the more common Retina / XHDPI (2X) resolution.**
+For the purpose of creating the template from scratch, all symbols and artboards are based on the latest Android version (KitKat) and the Nexus 5 specs, respectively. Unfortunately being the sole Android device I own, the Nexus 5 utilizes an XXHDPI resolution for assets (which is 3X the base MDPI = 1px). This means exportability is difficult if you want to scale down to other display densities. **The first stable version (v1.0) will pair everything down to the more common Retina / XHDPI (2X) resolution.**
 
 For those unfamiliar with the current spectrum of display densities, Jeff Broderick's [density converter](http://density.brdrck.me/) can help you get acquainted and make the proper calculations.
 
