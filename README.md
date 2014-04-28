@@ -38,22 +38,6 @@ If you find this project useful and want to contribute in other ways, [consider 
 
 [donate]: mailto:square@chen.io?cc=cash@square.com&subject=%244.00&body=Here's%20a%20coffee%20on%20me%20for%20your%20awesome%20work.
 
-### TODO before v1.0
-
-* add navigation drawer
-* add notification drawer
-* add text styles
-* add more action bar styles
-* add extra styles for controls
-* add pressed tab bars
-* add text selection controls
-* add home screen icon template
-* add sample widgets
-* add time picker screens
-* deprecate buttons (match "official" style guide)
-* need to scale down to XHDPI for ease of exportability (!)
-* and more...
-
 ## License
 
 The project is released under the MIT license. See `LICENSE` for more details.
