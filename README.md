@@ -4,7 +4,9 @@
 
 This is a work-in-progress, comprehensive Android GUI template for [Sketch](http://bohemiancoding.com/sketch/).
 
-You can [download the latest release here](https://github.com/wikichen/sketch-android-kit/releases).
+**You can [download the latest release here](https://github.com/wikichen/sketch-android-kit/releases).**
+
+Want to thank me? [Buy me a coffee][donate]. It'll keep the updates coming. ;)
 
 ![Document Overview](https://raw.githubusercontent.com/wikichen/sketch-android-kit/master/images/overview.png)
 
