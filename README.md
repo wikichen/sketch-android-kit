@@ -1,5 +1,3 @@
-![Project Image](https://raw.githubusercontent.com/wikichen/sketch-android-kit/master/images/project-image.png)
-
 # Sketch Android Kit
 
 This is a work-in-progress, comprehensive Android GUI template for [Sketch](http://bohemiancoding.com/sketch/).
@@ -24,7 +22,11 @@ You'll notice similarities with the iOS UI Design template that ships with Sketc
 
 ## Support
 
-For the purpose of creating the template from scratch, all symbols and artboards are based on the latest Android version (KitKat) and the Nexus 5 specs, respectively. Unfortunately being the sole Android device I own, the Nexus 5 utilizes an XXHDPI resolution for assets (which is 3X the base MDPI = 1px). This means exportability is difficult if you want to scale down to other display densities. **The first stable version (v1.0) will pair everything down to the more common Retina / XHDPI (2X) resolution.**
+The template currently supports and maintains assets for two display densities:
+* XXHDPI (@3x) - linked (as symbols)
+* XHDPI (@2x / Retina) - unlinked (in beta)
+
+Artboards are based on the Nexus 5 and the Nexus 4, respectively. Currently the XXHDPI version is considered the official template, as I don't have an XHDPI device (e.g., Nexus 4) with which to recreate the GUI down to the pixel. If you'd like to see better support for XHDPI, consider [tipping me][donate] so I can invest in a reference device.
 
 For those unfamiliar with the current spectrum of display densities, Jeff Broderick's [density converter](http://density.brdrck.me/) can help you get acquainted and make the proper calculations.
 
