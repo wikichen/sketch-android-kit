@@ -16,7 +16,7 @@ This is a work-in-progress, comprehensive Android GUI template for [Sketch](http
 
 ## Structure
 
-The document comprises two pages: the first an introductory artboard with a starter template and the second the main library of symbols and text styles you'll need to mock up your Android apps.
+The document comprises three pages: the first an introductory artboard with a starter template, the second the main library of symbols and text styles you'll need to mock up your Android apps in XXHDPI resolution, and the third an identical (but unlinked) version of the template in XHDPI resolution.
 
 You'll notice similarities with the iOS UI Design template that ships with Sketch 3. It's intentional and is meant to be a complement to the included templates (because Android deserves some love, too).
 
