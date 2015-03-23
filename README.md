@@ -40,7 +40,7 @@ You should first familiarize yourself with Android's design paradigm by reading 
 
 If you find this project useful and want to contribute in other ways, [consider buying me a coffee][donate]. My addled, caffeine-craving body thanks you.
 
-[donate]: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=paypal%40chen%2eio&lc=US&item_name=Sketch%20Android%20Kit%20coffee%20tip&item_number=wikichen&amount=4%2e00&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+[donate]: https://cash.me/$wikichen
 
 ## License
 
